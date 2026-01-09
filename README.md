@@ -3,6 +3,7 @@ Interactive Power-BI Dashboard Analyzing Credit Card Financial Data.
 #Overview This Project Analyzes Credit Card Financial Data on Weekly Basis Using Power-BI.
 
 #Tools Used
+
   ♦ Power-BI
   
   ♦ Power Query
@@ -12,6 +13,7 @@ Interactive Power-BI Dashboard Analyzing Credit Card Financial Data.
   ♦ DAX
   
 #Key Insights  
+
   ♦ wow revenue decreased by 12.8% in week52.
   
   ♦ Male customers are contributing more in revenue 30M,female 25M.
