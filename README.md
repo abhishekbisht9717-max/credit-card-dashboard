@@ -28,5 +28,16 @@ Interactive Power-BI Dashboard Analyzing Credit Card Financial Data.
   ♦ Overall Delinquent rate is 6.07%.
   
 #Files Included
-  ♦
-  ♦♦♦♦♦♦♦♦♦♦
+
+  ♦ Credit_Card
+  
+  ♦ Customer
+  
+  ♦ Credit Card Transaction Dashboard
+  
+  ♦ Credit Card Customer Dashboard
+  
+  ♦ For Insight Purpose
+
+#Data Source:Credit card Data(Google)
+  ♦♦♦♦♦♦
