@@ -3,7 +3,6 @@ Interactive Power-BI Dashboard Analyzing Credit Card Financial Data.
 #Overview This Project Analyzes Credit Card Financial Data on Weekly Basis Using Power-BI.
 
 #Tools Used
-
   ♦ Power-BI
   
   ♦ Power Query
